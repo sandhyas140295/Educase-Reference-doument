@@ -18,7 +18,6 @@ Responsive and clean UI container (PageWrapper)
 Modular component-based architecture
 
 Folder Structure:
-
 educase-cdn/
 ├── index.html           # Main HTML file loading CDN scripts and app scripts
 ├── src/
